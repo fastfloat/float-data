@@ -1,6 +1,6 @@
 # float-data — Numeric data examples
 
-This repository contains a small set of plain text files with numeric data samples. The files are stored in the `number_files/` directory.
+This repository contains a set of plain text files with numeric data samples. The files are stored in the `number_files/` directory.
 
 Contents
 
@@ -9,7 +9,7 @@ Contents
 	- `number_files/marine_ik.txt` — numeric data related to a marine inverse-kinematics example (used for testing numeric parsing and algorithms).
 	- `number_files/mesh.txt` — numeric representation of a 3D mesh (vertices, indices or related mesh data for testing mesh processing).
 	- `number_files/numbers.txt` — a collection of numeric values ranging from 0 to 1, useful for tes
-	- `number_files/bitcoin.txt` — daily close prices of bitcoin in USD from 2020-01-01 to 2022-07-31
+	- `number_files/bitcoin.txt` — daily close prices of bitcoin in USD from 2020-01-01 to 2022-07-31.
 
 Quick usage
 

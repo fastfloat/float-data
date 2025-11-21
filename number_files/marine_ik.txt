@@ -114948,4 +114948,3 @@
 2.5
 2.5
 4.4
-Extracted 114950 numbers (written to stdout)
